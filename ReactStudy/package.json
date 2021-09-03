@@ -23,7 +23,7 @@
     "core-js": "^2.6.11",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "immer": "^5.3.4",
+    "immer": "^9.0.6",
     "next": "^9.0.5",
     "next-build-id": "^3.0.0",
     "next-compose-plugins": "^2.2.0",
